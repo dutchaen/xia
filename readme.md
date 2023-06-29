@@ -33,6 +33,6 @@ if you dont want a response body, type '*' and press enter, otherwise copy the r
 ## how do i use this?
 this tool only works on windows for now bc of the clipboard_win crate (NO LINUX OR MAC OS SUPPORT NERDS)
 
-aside from that, check the release section of this repository if you dont have rust installed, there should be an prebuilt exe for you to use
+aside from that, check the [release section](https://github.com/dutchaen/xia/releases/tag/release) of this repository if you dont have rust installed, there should be an prebuilt exe for you to use
 
 if you want to build from src, download rust, git clone this repo, cd into it then run ```cargo build``` or ```cargo build --release```
